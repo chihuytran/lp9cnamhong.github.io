@@ -12,7 +12,7 @@ albumBtn.onclick = () => {
 };
 
 const texts = [
-  "Chào mừng bạn đến với lớp 9C",
+  "Welcome to our class",
   "Trang web này dành riêng cho lớp 9C-THCS Nam Hồng",
   "Được phát triển và hoàn thiện bởi Trần Chí Huy",
   "Cùng với sự trợ giúp của"
@@ -60,7 +60,38 @@ const namesAndLinks = [
   { name: "Hà An", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
   { name: "Việt Anh", color: "pink", url: "https://www.facebook.com/viet.anh309" },
   { name: "Phương Anh", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
-  // ... (thêm các thành viên khác ở đây)
+   name: "Nguyễn Hữu Gia Bảo(không có đường dẫn)", color: "blue", url: "https://www.facebook.com/yuean1046" },
+  { name: "Lê Bùi Gia Bảo", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
+  { name: "Thành An", color: "pink", url: "https://www.facebook.com/viet.anh309" },
+  { name: "Nguyễn Gia Bảo", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
+   name: "Ánh Dương(không có đường dẫn)", color: "blue", url: "https://www.facebook.com/yuean1046" },
+  { name: "Khánh Linh", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
+  { name: "Thảo Linh", color: "pink", url: "https://www.facebook.com/viet.anh309" },
+  { name: "Tuệ Linh", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
+   name: "Phương Linh", color: "blue", url: "https://www.facebook.com/yuean1046" },
+  { name: "Chí Huy", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
+  { name: "Nhật Huy", color: "pink", url: "https://www.facebook.com/viet.anh309" },
+ name: "Việt An", color: "blue", url: "https://www.facebook.com/yuean1046" },
+  { name: "Hà An", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
+  { name: "Việt Anh", color: "pink", url: "https://www.facebook.com/viet.anh309" },
+  { name: "Phương Anh", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
+{ name: "Phương Anh", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
+ name: "Việt An", color: "blue", url: "https://www.facebook.com/yuean1046" },
+  { name: "Hà An", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
+  { name: "Việt Anh", color: "pink", url: "https://www.facebook.com/viet.anh309" },
+  { name: "Phương Anh", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
+ name: "Việt An", color: "blue", url: "https://www.facebook.com/yuean1046" },
+  { name: "Hà An", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
+  { name: "Việt Anh", color: "pink", url: "https://www.facebook.com/viet.anh309" },
+  { name: "Phương Anh", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
+ name: "Việt An", color: "blue", url: "https://www.facebook.com/yuean1046" },
+  { name: "Hà An", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
+  { name: "Việt Anh", color: "pink", url: "https://www.facebook.com/viet.anh309" },
+  { name: "Phương Anh", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
+ name: "Việt An", color: "blue", url: "https://www.facebook.com/yuean1046" },
+  { name: "Hà An", color: "pink", url: "https://www.facebook.com/han.nguyen.12092" },
+  { name: "Việt Anh", color: "pink", url: "https://www.facebook.com/viet.anh309" },
+  { name: "Phương Anh", color: "pink", url: "https://www.facebook.com/profile.php?id=100075183654953" },
   { name: "Thầy giáo chủ nhiệm: Kiều Mạnh Hoàng", color: "blue", url: "https://www.facebook.com/profile.php?id=100008250704964" }
 ];
 

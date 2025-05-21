@@ -14,7 +14,7 @@ albumBtn.onclick = () => {
 };
 
 const texts = [
-  "Chào mừng bạn đến với lớp 9C",
+  "Welcome to our class",
   "Trang web này dành riêng cho lớp 9C-THCS Nam Hồng",
   "Được phát triển và hoàn thiện bởi Trần Chí Huy",
   "Cùng với sự trợ giúp của"

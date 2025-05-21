@@ -1,4 +1,4 @@
-﻿* {
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -55,12 +55,13 @@ body {
 }
 
 #frame {
-  background: #ffffffbb;
+  background:#ffffffbb;
   max-width: 1000px;
   margin: 0 auto;
   border: 2px solid #aaa;
   padding: 20px;
   border-radius: 12px;
+  background-color: #ffffffbb;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   position: relative;
   z-index: 2;
@@ -115,15 +116,6 @@ body {
   color: white;
 }
 
-#albumBtn {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  z-index: 3;
-  background-color: #e91e63;
-  color: white;
-}
-
 #sideImages {
   position: fixed;
   top: 0;
@@ -167,4 +159,13 @@ body {
   color: #333;
   z-index: 4;
   background-color: #ffffffcc;
+}
+
+#albumBtn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 3;
+  background-color: #e91e63;
+  color: white;
 }
